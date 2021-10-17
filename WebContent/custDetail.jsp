@@ -15,7 +15,7 @@
 			document.getElementById('ans').style.display = 'none';
 		} else {
 			document.getElementById('inputFlightCode').innerHTML = "Enter Passenger Name";
-			document.getElementById('inputFlightCode2').placeholder = "E.g. Heet Vachhani";
+			document.getElementById('inputFlightCode2').placeholder = "E.g. Brian Nyachae";
 			document.getElementById('date').style.display = 'none';
 			document.getElementById('ans').style.display = 'none';
 		}
